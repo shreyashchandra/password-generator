@@ -101,6 +101,9 @@ function App() {
             </div>
           </div>
         </div>
+        <p className="text-center text-slate-400">
+          Created by @shreyashchandra
+        </p>
       </div>
     </>
   );
